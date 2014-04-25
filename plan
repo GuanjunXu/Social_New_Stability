@@ -1,0 +1,21 @@
+[tests]
+burstslowcapture.BurstCameraTest.testCaptureWithExposure = 1
+burstslowcapture.BurstCameraTest.testCapturePictureWithScenes = 1
+burstslowcapture.BurstCameraTest.testCaptureWithPictureSize = 1
+burstslowcapture.BurstCameraTest.testCapturepictureWithGeoLocation = 1
+burstfastcapture.BurstCameraTest.testCaptureWithExposure = 1
+burstfastcapture.BurstCameraTest.testCapturePictureWithScenes = 1
+burstfastcapture.BurstCameraTest.testCaptureWithPictureSize = 1
+burstfastcapture.BurstCameraTest.testCapturepictureWithGeoLocation = 1
+videocapture.VideoCameraTest.testRecordVideoWithFlash = 1
+videocapture.VideoCameraTest.testRecordVideoWithVideoSize = 1
+videocapture.VideoCameraTest.testRecordVideoWithGeoLocation = 1
+#videocapture.VideoCameraTest.testRecordSwithToTestCamera=1
+videocapture.VideoCameraTest.testRearFaceRecordVideoWithGeoLocation = 1
+videocapture.VideoCameraTest.testRecordVideoCaptureVideoWithBalance = 1
+videocapture.VideoCameraTest.testRecordVideoCaptureVideoWithExposure = 1
+videocapture.VideoCameraTest.testRecordVideoWithCaptureImage = 1
+hdrcapture.CameraTest.testCapturePictureWithFD = 1
+hdrcapture.CameraTest.testCapturepictureWithGeoLocation = 1
+hdrcapture.CameraTest.testCapturePictureWithPictureSize = 1
+hdrcapture.CameraTest.testCapturePictureWithSelfTimer = 1
